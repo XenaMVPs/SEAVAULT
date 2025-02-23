@@ -103,5 +103,6 @@ DELETE_ORIGINAL_AFTER_ENCRYPT=false
 🔹 Creado con pasión por la seguridad y la innovación.  
 🔹 Código abierto con amor ❤️, porque **la privacidad importa**.  
 
-📢 **Síguenos en GitHub y apoya con una ⭐!**  
+📢 **Síguenos en GitHub y apoya con una ⭐, no cuesta nada!**  
+
 
