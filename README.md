@@ -1,4 +1,4 @@
-```md
+
 # 🚀 SEAVAULT - Seguridad y Cifrado de Archivos 🔒
 
 [![GitHub license](https://img.shields.io/github/license/XenaMVPs/SEAVAULT)](LICENSE)
@@ -104,4 +104,4 @@ DELETE_ORIGINAL_AFTER_ENCRYPT=false
 🔹 Código abierto con amor ❤️, porque **la privacidad importa**.  
 
 📢 **Síguenos en GitHub y apoya con una ⭐!**  
-```
+
