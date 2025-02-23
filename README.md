@@ -1,7 +1,3 @@
-Aquí tienes un **README.md** brutal y bien formateado para GitHub:
-
----
-
 ```md
 # 🚀 SEAVAULT - Seguridad y Cifrado de Archivos 🔒
 
@@ -109,8 +105,3 @@ DELETE_ORIGINAL_AFTER_ENCRYPT=false
 
 📢 **Síguenos en GitHub y apoya con una ⭐!**  
 ```
-
----
-
-🔥 **Este README tiene de todo**: presentación épica, instalación fácil, uso explicado, configuración personalizada, roadmap, créditos y más.  
-💯 **Listo para GitHub!** 🚀
